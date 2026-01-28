@@ -1,6 +1,6 @@
 # Software Engineering Portfolio
 
-## Web Apps
+## Web Development
 ###  Boostrap & Flask
 * #### [Weather App](https://github.com/rosa-lpz/flask-weather-app)
   
@@ -12,7 +12,10 @@
 * #### [To Do App](https://github.com/rosa-lpz/django-to-do-app)
 * #### [Coding Test Platform](https://github.com/rosa-lpz/django-react-coding-tests-platform)
 
-## Desktop Apps
+## Desktop Development
 
 ### C++
 * #### [C++ Calculator](https://github.com/rosa-lpz/cpp_calculator-desktop-app)
+
+## AI Engineering / AI Development
+* ####[PDF Summarizer - AI-Powered Scientific Article Analysis]https://github.com/rosa-lpz/django-react-coding-tests-platform/tree/main
