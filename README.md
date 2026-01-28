@@ -18,4 +18,4 @@
 * #### [C++ Calculator](https://github.com/rosa-lpz/cpp_calculator-desktop-app)
 
 ## AI Engineering / AI Development
-* ####[PDF Summarizer - AI-Powered Scientific Article Analysis]https://github.com/rosa-lpz/django-react-coding-tests-platform/tree/main
+* #### [PDF Summarizer - AI-Powered Scientific Article Analysis](https://github.com/rosa-lpz/django-react-coding-tests-platform/)
